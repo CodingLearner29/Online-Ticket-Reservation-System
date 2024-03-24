@@ -1,4 +1,4 @@
-# Online Ticketing System Responsive Website**
+# Online Ticketing System Responsive Website
 
 This project involves the development of a responsive online ticketing system using HTML, CSS, and JavaScript. The system allows users to browse, select, and purchase tickets for various events, shows, or activities. The website's responsive design ensures optimal viewing and functionality across different devices and screen sizes, including desktops, tablets, and smartphones. Key features may include event listings, seat selection, secure payment processing, user authentication, and booking confirmation. The use of HTML provides the structure, CSS enhances the visual presentation and layout, while JavaScript adds interactivity and dynamic functionality to create a seamless ticketing experience for users.
 
@@ -55,4 +55,4 @@ This project involves the development of a responsive online ticketing system us
    The Online Ticketing System Responsive Website provides a convenient and efficient platform for users to browse, select, and purchase tickets for various events. Its responsive design, intuitive user interface, and secure payment processing make it a valuable tool for event organizers and attendees alike. With continuous improvements and updates, the system aims to enhance the ticketing experience and meet the evolving needs of its users.
 
 7. **Deployed Link**
-   {https://codinglearner29.github.io/Online-Ticket-Reservation-System/}[Link]
+   {Link}[https://codinglearner29.github.io/Online-Ticket-Reservation-System/]
